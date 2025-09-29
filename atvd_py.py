@@ -1,7 +1,7 @@
 '''
     1
-i=0
-while i<11:
+i=1
+while i<=10:
     print(i)
     i+=1
 
@@ -63,6 +63,7 @@ nome5=(input('digite um nome:'))
 while i<2:
     lista=[nome1, nome2, nome3, nome4, nome5]
     print (lista)
+
 
 
 
