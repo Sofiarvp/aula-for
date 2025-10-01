@@ -26,6 +26,9 @@ print(f'o preco de {nome} é {preco}') o mais usado
 
 #format
 
+
+"i" é o contador
+
 '''
 i=0
 while i <5:
